@@ -1,0 +1,23 @@
+
+help
+show commands
+tell me time
+help
+what time is it
+exit
+help
+tell me time
+exit
+tell me time
+exit
+set voice zira
+set language hindi
+what time is it
+exit
+set language english
+exit
+hello jarvis
+tell me time
+tell me time
+exit
+tell me time
