@@ -1,0 +1,34 @@
+JARVIS COMMAND CHEAT SHEET
+=========================
+
+How to start:
+python jarvis_main.py
+
+Wake commands:
+- wake up
+- jarvis
+
+Sleep commands:
+- go to sleep
+- sleep
+
+Exit commands:
+- exit
+- stop jarvis
+- close jarvis
+- shutdown jarvis
+
+Commands after wake up:
+- hello
+- hi
+- how are you
+- how r u
+- who are you
+- time
+
+Basic flow:
+1. Run: python jarvis_main.py
+2. Say: wake up
+3. Say any command
+4. Say: go to sleep
+5. Say: exit

@@ -1,0 +1,17 @@
+JARVIS FUTURE IDEAS
+==================
+
+Planned commands to add later:
+
+- open youtube
+- open google
+- play song
+- tell date
+- shutdown pc
+- open notepad
+
+How to use this file later:
+
+- When ready, say: let's work on the idea file
+- We can pick any one command from this list and implement it
+- We can also keep adding more ideas here over time
