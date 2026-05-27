@@ -2,6 +2,8 @@ venv/
 .venv/
 env/
 ENV/
+.env
+.python-version
 
 __pycache__/
 *.py[cod]
@@ -21,6 +23,8 @@ htmlcov/
 
 .vscode/
 .idea/
+.DS_Store
+Thumbs.db
 
 *.log
 *.tmp

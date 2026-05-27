@@ -18,17 +18,87 @@ Exit commands:
 - close jarvis
 - shutdown jarvis
 
-Commands after wake up:
+Basic commands after wake up:
+- hear me
 - hello
 - hi
 - how are you
 - how r u
 - who are you
+- about you
 - time
+
+Google search commands:
+- google cricket score
+- google python tutorial
+- search google for weather today
+
+YouTube commands:
+- youtube lo-fi songs
+- youtube python project
+
+Wikipedia commands:
+- wikipedia virat kohli
+- wikipedia india
+
+Weather commands:
+- weather
+- temperature
+
+App open commands:
+- open command prompt
+- open cmd
+- open terminal
+- open paint
+- open word
+- open excel
+- open powerpoint
+- open chrome
+- open vscode
+- open vs code
+- open notepad
+- open calculator
+- open settings
+- open heidisql
+- open sourcetree
+- open github desktop
+- open postman
+
+Website open commands:
+- open google
+- open youtube
+- open instagram
+- open facebook
+- open linkedin
+- open github website
+- open gmail
+- open example.com
+
+App close commands:
+- close command prompt
+- close paint
+- close word
+- close excel
+- close powerpoint
+- close chrome
+- close vscode
+- close notepad
+- close calculator
+- close settings
+- close heidisql
+- close sourcetree
+- close github desktop
+- close postman
+
+Tab close commands:
+- close tab
+- close google tab
+- close youtube tab
+- close gmail tab
 
 Basic flow:
 1. Run: python jarvis_main.py
 2. Say: wake up
-3. Say any command
+3. Say any command from this sheet
 4. Say: go to sleep
 5. Say: exit

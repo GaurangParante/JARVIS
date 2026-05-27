@@ -3,12 +3,33 @@ JARVIS FUTURE IDEAS
 
 Planned commands to add later:
 
-- open youtube
-- open google
 - play song
 - tell date
 - shutdown pc
-- open notepad
+- open previous tab
+- next app
+- change app
+- open new VS Code window
+- open new Chrome window
+
+VS Code specific command ideas:
+
+- In VS Code, change project using shortcut like Ctrl + R
+- In VS Code, search file using shortcut like Ctrl + P
+- In VS Code, open a new VS Code window
+
+Browser specific command ideas:
+
+- In Chrome, open previous tab
+- In Chrome, open a new Chrome window
+
+Future feature ideas:
+
+- Add humor/personality mode so Jarvis can reply in a more fun style.
+- Add multilingual responses for English, Hindi, and Gujarati.
+- Add language switch commands such as "speak in Hindi" or "Gujarati mode".
+- Improve text-to-speech backend for natural Hindi/Gujarati voice quality.
+- Add Gujarati-style fun responses like "ha moj ha" when speaking in Gujarati.
 
 How to use this file later:
 

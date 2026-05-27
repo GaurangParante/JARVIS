@@ -1,7 +1,9 @@
 import datetime
 
+from .speech import speak
 
-def greetMe(speak):
+
+def greet_user():
     hour = int(datetime.datetime.now().hour)
 
     if 0 <= hour < 12:
@@ -11,4 +13,4 @@ def greetMe(speak):
     else:
         greeting = "Good Evening, sir."
 
-    speak(f"{greeting}")
+    speak(greeting)
