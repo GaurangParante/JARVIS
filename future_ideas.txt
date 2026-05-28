@@ -14,14 +14,45 @@ Planned commands to add later:
 
 VS Code specific command ideas:
 
+- Open a new VS Code window
 - In VS Code, change project using shortcut like Ctrl + R
+- Open a selected project/folder in VS Code
+- Open Codex inside VS Code
+- Type a prompt/message in Codex inside VS Code and send it
 - In VS Code, search file using shortcut like Ctrl + P
-- In VS Code, open a new VS Code window
+- Search inside the current file/page
+- Search globally in the full project
+- Write or insert code in the active file
+- Scroll code page up and down
+- Open the VS Code terminal
+- Run node/npm start command from terminal
+- Create a new file
+- Delete a file
+- Edit an existing file
+- Rename a file
+- Save the current file
+- Close the current file/tab
+- Switch between open files/tabs
 
 Browser specific command ideas:
 
 - In Chrome, open previous tab
 - In Chrome, open a new Chrome window
+
+YouTube specific command ideas:
+
+- Open YouTube
+- Search a video on YouTube
+- Click/open a video from search results
+- Scroll YouTube page up and down
+- Play/pause video
+- Skip forward/backward in video
+- Increase/decrease volume
+- Mute/unmute video
+- Turn fullscreen on/off
+- Open comments section
+- Like a video
+- Subscribe to a channel
 
 Future feature ideas:
 
