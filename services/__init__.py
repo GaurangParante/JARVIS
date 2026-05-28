@@ -4,6 +4,7 @@ from .listener import take_command
 from .search_service import search_google, search_wikipedia, search_youtube
 from .speech import clear_speech, speak
 from .weather_service import fetch_temperature, fetch_weather
+from .alarm import ring
 
 __all__ = [
     "clear_speech",
@@ -17,4 +18,5 @@ __all__ = [
     "search_youtube",
     "speak",
     "take_command",
+    "ring"
 ]
