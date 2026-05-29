@@ -61,6 +61,12 @@ Future feature ideas:
 - Add language switch commands such as "speak in Hindi" or "Gujarati mode".
 - Improve text-to-speech backend for natural Hindi/Gujarati voice quality.
 - Add Gujarati-style fun responses like "ha moj ha" when speaking in Gujarati.
+- Add counter-question mode for unknown commands:
+  - If user says something like "open netprime" and Jarvis cannot find it in app/website/command list, Jarvis should ask a counter question such as "Is that an app or website?"
+  - Based on the answer, Jarvis should update its app/website/command list so it can remember and use it next time.
+  - If Jarvis hears a line but no known command is found, it should ask something like "Did you say something, or was that a spelling/misheard command?"
+  - If user says yes, Jarvis should ask the user to say the command again.
+  - If user says no, Jarvis should ignore it and continue in listening mode.
 
 How to use this file later:
 
